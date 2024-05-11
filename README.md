@@ -86,3 +86,70 @@ _________9 x<= 9
 _____5/3__ x< 5/3
 _____5/3   intercessao dos dois x<5/3
 S = ]-00,5/3[, ou seja, de -infinito (não incluindo infinito) até 5/3 (não incluindo 5/3).
+
+## Módulo de um número real
+É a distância, então sempre será positivo.
+Definição Algébrica:
+|x| = 
+    {
+        x, se x>=0
+        -x, se x<0
+    }
+Exemplos: 
+|-4| = -(-4) = 4, pois o x (4) é negativo.
+|0| = 0
+
+|x| = 
+    {
+        x, se x>=0
+        -x, se x<0
+    }
+Exemplos: 
+a) |√7 - √2| = √7 - √2, pois o maior numero é positivo, então vamos usar essa parte "x, se x>=0" que foi dado.
+
+b)|√2 - √7| = -(√2 - √7) =  -√2 + √7 == √7 - √2, foi multiplicado por negativo a equação pois o maior número era negativo, portanto como dar negativo o resultado.
+
+c)Se x<2, qual é o valor?
+(|x-2|)/(x-2)
+R: x-2<0, já sabemos que qualquer valor menor que 2 resultara em 0.
+(|x-2|)/(x-2) = -(x-2)/x-2, multiplica-se por (-) pois a condição dada nos colchetes lá em cima foi atendida = -1.
+
+Propriedade
+Quando temos √a², o resultado sempre será em módulo, ou seja, √a² = |a|.
+A)√5 = |5| = 5
+b)√(-2)² = |-2|
+
+Outra Propriedade:
+|A| = B logo A=B ou A = -B
+PRECISA SER B >=0
+
+A)|3x-2| = 7
+3x-2 = 7                        3x-2 = -7
+3x = 7 + 2                      3x = -7+2
+x = 9/3, x= 3                   x = -5/3
+Duas respostas.
+
+B)|2x-1| = x+2  RESTRIÇÃO QUANDO TEMOS UMA INCOGNITA, x+2 >=0, x>=-2, ou seja x precisa ser maior ou igual a -2.
+|2x-1| = x+2 ou 2x-1 = -(x+2)
+2x-1 = x+2   ou 2x-1 = -x-2
+x = 3           x = -1/3,
+os dois resultados são maiores ou iguais que -2 portanto são válidos.
+
+C)|x²-5x| = 6
+x²-5x = 6 ou x²-5x = -6
+como é uma equação de segundo grau eu igualo a 0 para encontrar as raízes,
+x²-5x - 6 = 0 ou x²-5x + 6 = 0
+Posso fazer bhaskara ou a regrinha de soma e produto:
+S= 5 (número do meio com o sinal invertido)
+P= -6 (número do final)
+Os dois números que multiplicados dão -6 e somados dão 5 são:
+6 e -1
+Agora para a equação do 6 positivo (x²-5x + 6 = 0):
+S= 5
+P= 6
+Os dois números que multiplicados dão 6 e somados dão 5 são:2 e 3
+
+D)|3x-1| = |2x+3|
+Como está no módulo, não é preciso fazer nenhuma restrição pois ele ficara positivo.
+3x-1 = 2x+3 ou 3x-1 = -(2x+3)
+x=4         ou x = -2/5
