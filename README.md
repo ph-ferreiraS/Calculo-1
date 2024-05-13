@@ -153,3 +153,72 @@ D)|3x-1| = |2x+3|
 Como está no módulo, não é preciso fazer nenhuma restrição pois ele ficara positivo.
 3x-1 = 2x+3 ou 3x-1 = -(2x+3)
 x=4         ou x = -2/5
+
+Método da Substituição:
+A)|X|² -5|x|+4 = 0
+y = |X|
+y² -5y+4 = 0
+Encontro a solução por meio do método da soma e produto
+S= 5 (sinal invertido)
+P= 4 
+Número que somado com 4 dá 5 = 1 e multiplicado dá 5 = 4
+|X| = 4     ou |X|= 1
+Aplicando a propriedade
+X = 4 ou X = -4       X = 1 ou X = -1
+Essas são as soluções finais.
+
+B)||X-2|+2| = 5 São dois módulos, primeiro resolvo o módulo maior colocando 5 como positivo e como negativo
+|X - 2| + 2 = 5 ou |X - 2| + 2 = -5
+Começo pelo módulo positivo (não obrigatório),
+|X - 2| = 5-2
+|X - 2| = 3
+Agora resolvo o segundo módulo que estava pendente,
+X - 2 = 3 ou X - 2 = -3
+X = 5 ou X = -1
+Agora resolvendo a outra possibilidade (|X - 2| + 2 = -5),
+|X - 2| = -7
+Não é preciso resolver mais nada, esse módulo é inválido pois é negativo, o resultado final será X = 5 ou X = -1
+
+C)|X+1| + |X| = 3
+|X+1| = {
+            X+1, se X>=-1 (iguala a 0 e isola o X)
+            -(X+1), se X<-1 (iguala a 0 e isola o X)
+        }
+
+|X|     {
+            X, se X>=0
+            -(X), se X<0
+        }
+
+Faço o quadro
+                     -1          0
+|x+1|           -x-1  |   x+1    |x+1  
+|x|             -x    |   -x     |x     FAÇO A SOMA
+|x+1| + |x|     -2x-1 |   +1     |2x+1
+Verifico quais resultado foram válidos igualando a 3,
+-2x-1 = 3
+-2x = 2
+x = -2, válido pois está dentro do intervalo x<-1
+
++1=3, inválido,
+
+2x+1 = 3
+2x = 2
+x = 1, válido pois está dentro do intervalo >=0
+Soluções: -2 e 1
+
+Solução mais rápida:
+|X+1| + |X| = 3, igualo a 3
+X+1 + X = 3
+2x = 2
+x = 1, válido
+
+-X-1 - X = 3
+-2X = 4
+X = -2, válido
+
+-X+1 + X = 3
+1 = 3, inválido
+
+X+1 - X = 3
+1 = 3, inválido
